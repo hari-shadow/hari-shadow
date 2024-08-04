@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Hariharan Sridhar
 
-I'm currently looking for a Job in Product based MNC's.
+I'm currently looking for a Job at Product based MNC's.
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning DSA
