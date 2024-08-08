@@ -17,5 +17,5 @@ I'm currently looking for a Job at Product based MNC's.
 
 ![Hariharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hari-shadow&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hariharanlaligam?ext=contest&theme=dark)](https://leetcode.com/hariharanlaligam)
+<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/hariharanlaligam?ext=contest&theme=dark)](https://leetcode.com/hariharanlaligam) -->
 
